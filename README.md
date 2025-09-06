@@ -1,21 +1,24 @@
 AI Anti-Corruption Platform
-📌 Overview
 
+Overview
 The AI Anti-Corruption Platform is a mobile and web-based prototype designed to improve transparency, accountability, and efficiency in government and public services. It uses AI, data analytics, and digital tools to detect, prevent, and report corruption, while empowering citizens with real-time grievance redressal.
 
-🎯 Target Beneficiaries
+
+**Target Beneficiaries:**
 Citizens using government and public services
 Government authorities for service monitoring
 Law enforcement & vigilance bodies
 Judiciary & anti-corruption agencies
 Media & civil society watchdogs
 
-🚀 Expected Impact
+
+##Expected Impact
 Improved transparency and accountability
 Reduced corruption and bribery
 Faster and time-bound service delivery
 AI-powered insights and automated escalation
 Strengthened public trust in governance
+
 
 🛠️ Technology/Platform Used
 AI & Machine Learning → Complaint analysis, hotspot prediction
